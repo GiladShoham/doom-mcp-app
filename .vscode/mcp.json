@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"doom-mcp-app": {
+			"url": "http://localhost:3001",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
